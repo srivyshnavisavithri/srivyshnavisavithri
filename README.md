@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently learning to code.<br>🤝 I’m looking for help with coding.<br>🌱 I’m currently learning c and python.
 
 
 ## 🌐 Socials:
